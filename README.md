@@ -31,8 +31,8 @@ AYED-PRIV-WORK/
 #### │-- docs/      # Documentos de apoyo, explicaciones y apuntes
 #### │-- tests/     # Pruebas y validaciones de código
 
-# ////////////////////////
+#### ////////////////////////
 ### Contacto
-# ////////////////////////
+#### ////////////////////////
 
 Si tienes dudas o sugerencias, por favor comunícalo en los comentarios del código o mediante el sistema de issues del repositorio.
