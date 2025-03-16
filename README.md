@@ -26,10 +26,10 @@ Respetar el formato del código: Mantener una estructura limpia y consistente en
 # ////////////////////////
 
 AYED-PRIV-WORK/
-#### │-- README.md  # Documentación del repositorio
-#### │-- src/       # Código fuente organizado por temas
+#### │-- README.md  # Instrucciones Repo
+#### │-- src/       # Códigos organizados por semanas 
 #### │-- docs/      # Documentos de apoyo, explicaciones y apuntes
-#### │-- tests/     # Pruebas y validaciones de código
+#### │-- tests/     # Códigos de prueba
 
 #### ////////////////////////
 ### Contacto
