@@ -21,7 +21,7 @@ Estructura de carpetas: Organiza los archivos en carpetas según el tipo de algo
 
 Respetar el formato del código: Mantener una estructura limpia y consistente en la escritura del código (indentación, nombres de variables descriptivos, etc.).
 
-####IMPORTANTE REGLAS COLABORADORES
+#### IMPORTANTE REGLAS COLABORADORES
 Para la colaboración de ejercicios de laboratorios de AYED, crear una carpeta dentro del path src donde deberá tener la siguiente estructura: nombre_apellido/ S#semana
 
 # ////////////////////////
